@@ -1,6 +1,6 @@
 #!/bin/csh
 #PBS -q SQUID
-#PBS --group=fg0036
+#PBS --group=******
 ##PBS -v OMP_NUM_THREADS=8
 #PBS -l elapstim_req=24:00:00
 #PBS -l cpunum_job=76
