@@ -1,7 +1,7 @@
 #!/bin/csh
 #
 #PBS -q SQUID
-#PBS --group=fg0036
+#PBS --group=******
 #PBS -l elapstim_req=24:00:00
 #PBS -l cpunum_job=75
 ##PBS -M mail@mail.com
